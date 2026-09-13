@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NextGen Mentors",
+  "description": "An immersive 3D mentorship and professional development application built for the NOBCChE ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
